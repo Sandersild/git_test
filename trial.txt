@@ -1,1 +1,3 @@
-blublabla?? yes ! blubla!
+blublabla?? yes ! blubla
+
+trying out git message system for vscode
